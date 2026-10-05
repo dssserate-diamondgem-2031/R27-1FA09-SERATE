@@ -14,3 +14,4 @@
 ### Changed 
 - Revised and added extra comments to the code
 - File name
+- README.md description
