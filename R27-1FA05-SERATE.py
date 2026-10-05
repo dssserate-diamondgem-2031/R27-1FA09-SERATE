@@ -1,3 +1,5 @@
+# This is R27-1FA09-SERATE; an updated version of R27-1FA05-SERATE.
+----------------------------------------------------------------------------
 # The import function to help with the computation of the distance
 import math 
 
